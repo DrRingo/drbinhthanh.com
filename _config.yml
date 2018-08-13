@@ -47,9 +47,10 @@ copyright:             Dr. Ringo © 2018. All rights reserved.
 navbar-links:
   About Me: "Tôi là ai"
   Các tác giả:
-    - Bs. Nguyễn Bình Thành
-    - Bs. Phạm Thanh Hoàng
-    - Bs. Phan Diễm Đoan Ngọc
+    - 'Bs. Nguyễn Bình Thành'
+    - 'Bs. Phạm Thanh Hoàng'
+    - 'Bs. Phan Diễm Đoan Ngọc'
+
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
  #   - Learn markdown: "http://www.markdowntutorial.com/"
