@@ -4,9 +4,10 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://drbinhthanh.github.io"
-baseurl: ""
-lang: vi
+
+url:                    https://drbinhthanh.github.io
+baseurl:                ''
+lang:                   vi
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -15,17 +16,18 @@ lang: vi
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dr. Ringo's blog
+title:                  Dr. Bình Thành's blog
 
 # Short description of your site
-description: Dr. Ringo's stories and mainsteam thinking.
+description:            >
+  Chăm sóc sức khoẻ của bạn, bằng khoa học chứng cứ và kinh nghiệm trui rèn qua thời gian.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Dr. Ringo's stories and mainsteam thinking.
+  Chăm sóc sức khoẻ của bạn, bằng khoa học chứng cứ và kinh nghiệm trui rèn qua thời gian.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [medicine, obstetrics, gynecology, sản khoa, phụ khoa, làm mẹ]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/ico.png
@@ -45,11 +47,11 @@ copyright:             Dr. Ringo © 2018. All rights reserved.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Tôi là ai"
+  About Me: "about"
   Các tác giả:
-    - 'Bs. Nguyễn Bình Thành'
-    - 'Bs. Phạm Thanh Hoàng'
-    - 'Bs. Phan Diễm Đoan Ngọc'
+    - 'Bs. Nguyễn Bình Thành': drbinhthanh
+    - 'Bs. Phạm Thanh Hoàng': drthanhhoang
+    - 'Bs. Phan Diễm Đoan Ngọc': drdoanngoc
 
  # Resources:
  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -59,11 +61,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar:                 /assets/drringo.jpg
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img:             /assets/drringo.jpg
 
 # --- Background colour/image options --- #
 
@@ -98,8 +100,8 @@ social-network-links:
   rss: true
   email: "drbinhthanh@gmail"
   facebook: 100011371409653
-  github: drringo
-  twitter: ringotaylor06
+  github: drbinhthanh
+#  twitter: ringotaylor06
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -109,7 +111,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +84902410869
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -118,12 +120,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true 
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "drbinhthanh.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -286,11 +288,11 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-115760556-1
+google_analytics:      UA-123868888-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:              drbinhthanh
+# disqus:              drbinhthanh
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
