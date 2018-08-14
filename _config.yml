@@ -101,7 +101,7 @@ social-network-links:
   email: "drbinhthanh@gmail"
   facebook: 100011371409653
   github: drbinhthanh
-  twitter: ringotaylor06
+#  twitter: ringotaylor06
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -111,7 +111,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +84902410869
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -120,7 +120,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true 
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -288,7 +288,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-115760556-1
+google_analytics:      UA-123868888-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
