@@ -9,4 +9,4 @@ layout: page
 ![](/assets/img/banner.jpg)
 
 You've found the online home of [**Dr. Binh Thanh**
-](https://drbinhthanh.com). I am a tech obsessed, Star Trek loving optimist. I've had the pleasure of working with the web since the 90s and believe that everyone can make the world a better place.
+](http://drbinhthanh.com). I am a tech obsessed, Star Trek loving optimist. I've had the pleasure of working with the web since the 90s and believe that everyone can make the world a better place.
