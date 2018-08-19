@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 
-url:                    "drbinhthanh.com"
+url:                    ""
 baseurl:                ''
 lang:                   vi
 
@@ -112,7 +112,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-  telephone: +84902410869
+  telephone: '+84902410869'
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
