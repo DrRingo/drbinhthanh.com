@@ -17,4 +17,6 @@ Khi tôi tình cờ đậu vào trường y, bố tôi dụ dỗ tôi theo học
 
 > Tôi xin miễn trừ mọi trách nhiệm do áp dụng y khoa từ blog này mà không có chỉ định cụ thể của nhân viên y tế.
 
-Xin đa tạ!
+Muốn gặp tôi để hỏi thêm chi tiết? -> Bs. Bình Thành hiện tại khám ngoài giờ tại phòng khám **Olympus Gia Mỹ** *(33 Nguyễn Huy Lượng, phường 14, quận Bình Thạnh, TpHCM, gần bệnh viện Ung Bướu*), sáng chủ nhật, từ 8 -12h.
+
+**Xin đa tạ!**
