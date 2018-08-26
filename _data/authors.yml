@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
-drringo:
+drbinhthanh:
   # Replace <...> with your own (remove the < >)
   name:             drbinhthanh 
   email:            drbinhthanh@gmail.com 
@@ -16,15 +16,15 @@ drringo:
   picture:
     path:            /assets/drringo.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/drringo.jpg 
+    # srcset:
+    #  1x:            /assets/drringo.jpg 
     # 2x:            /assets/drringo.jpg
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     twitter:         ringotaylor06
-    github:          drringo
+    github:          drbinhthanh
     email:           mailto:drbinhthanh@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -75,8 +75,8 @@ drthanhhoang:
   picture:
     path:            /assets/drthanhhoang.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/drthanhhoang.jpg 
+    # srcset:
+    #  1x:            /assets/drthanhhoang.jpg 
     # 2x:            /assets/drringo.jpg
 
   # Social media icons in sidebar.
@@ -140,10 +140,10 @@ drdoanngoc:
 
   # This photo will be used in the about section.
   picture:
-    path:            /assets/drdoanngoc.png
+    path:            /assets/drdoanngoc.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/drdoanngoc.png
+    # srcset:
+    #  1x:            /assets/drdoanngoc.png
     # 2x:            /assets/drdoanngoc.png
 
   # Social media icons in sidebar.
