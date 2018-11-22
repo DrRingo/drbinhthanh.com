@@ -190,13 +190,14 @@ drdoanngoc:
 
 # Bệnh viện Từ Dũ 
 tudu:
-  name:              bệnh viện Từ Dũ
+  name:              Bệnh viện Từ Dũ
   email:             tudu.com.vn@yahoo.com
   about:        |
      Bệnh viện Từ Dũ Tp. Hồ Chí Minh đã và đang là một địa chỉ tin cậy, ngày càng được bệnh nhân tin yêu. 
+
      Đáp lại tấm chân tình ấy với những nỗ lực không mệt mỏi của Ban Giám Đốc và toàn thể CBCC bệnh viện trên mọi lĩnh vực, nhằm một mục tiêu giữ vững danh hiệu, cố gắng để đạt thành tích mới, hết lòng hưởng ứng phong trào “Trung thành, sáng tạo, tận tụy, gương mẫu”..
 
-  picture:           https://placehold.it/128x128
+  picture:           /assets/logotudu.jpg
   twitter:           <username>
   github:            <username>
 
