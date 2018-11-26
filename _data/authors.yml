@@ -197,7 +197,8 @@ tudu:
 
      Đáp lại tấm chân tình ấy với những nỗ lực không mệt mỏi của Ban Giám Đốc và toàn thể CBCC bệnh viện trên mọi lĩnh vực, nhằm một mục tiêu giữ vững danh hiệu, cố gắng để đạt thành tích mới, hết lòng hưởng ứng phong trào “Trung thành, sáng tạo, tận tụy, gương mẫu”..
 
-  picture:           /assets/logotudu.jpg
+  picture:
+    path:            /assets/logotudu.jpg
   twitter:           <username>
   github:            <username>
 
