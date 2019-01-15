@@ -17,6 +17,6 @@ Khi tôi tình cờ đậu vào trường y, bố tôi dụ dỗ tôi theo học
 
 > Tôi xin miễn trừ mọi trách nhiệm do áp dụng y khoa từ blog này mà không có chỉ định cụ thể của nhân viên y tế.
 
-Muốn gặp tôi để hỏi thêm chi tiết? -> Bs. Bình Thành hiện tại khám ngoài giờ tại phòng khám sản phụ khoa và thẩm mỹ **Belimi** 99 Phổ Quang, phường 2, quận Tân Bình. Rất hân hạnh đón tiếp mọi người!
+Muốn gặp tôi để hỏi thêm chi tiết? -> Bs. Bình Thành hiện tại ngoài công việc chính tại bệnh viện Từ Dũ còn khám ngoài giờ tại phòng khám sản phụ khoa và thẩm mỹ **Belimi** 99 Phổ Quang, phường 2, quận Tân Bình. Rất hân hạnh đón tiếp mọi người!
 
 **Xin đa tạ!**
