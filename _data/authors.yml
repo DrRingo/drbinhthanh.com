@@ -199,8 +199,6 @@ tudu:
 
   picture:
     path:            /assets/logotudu.jpg
-  twitter:           <username>
-  github:            <username>
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.

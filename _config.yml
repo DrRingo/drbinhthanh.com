@@ -24,7 +24,7 @@ description:            >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Chăm sóc sức khoẻ của bạn, bằng khoa học chứng cứ và kinh nghiệm trui rèn qua thời gian.
+  Bệnh viện Từ Dũ, mẹ tròn con vuông, từ 2011
 
 # A list of keywords for your blog
 keywords:              [medicine, obstetrics, gynecology, sản khoa, phụ khoa, làm mẹ]
@@ -47,7 +47,9 @@ copyright:             Dr. Ringo © 2018. All rights reserved.
 
 # List of links in the navigation bar
 navbar-links:
-  Uptodate: http://s.drbinhthanh.com/uptodate
+  Công cụ:
+    - RingoNotes: https://drringo.github.io/ExpertSystem
+    - Uptodate: http://s.drbinhthanh.com/uptodate
   About Me: "about"
   Các tác giả:
     - 'Bs. Nguyễn Bình Thành': drbinhthanh
@@ -268,10 +270,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
-#
 # Add some config from Hyde Theme
 
 # The string encoding which fonts to fetch from Google Fonts.
