@@ -4,8 +4,7 @@ layout: page
 comments: true
 author: belimi
 ---
-
-# Cách chọn sản phẩm chăm sóc da chống lão hóa
+> "Tại nhà máy, chúng tôi làm ra mỹ phẩm. Còn trong cửa hàng, chúng tôi bán niềm hy vọng"
 
 Bác sĩ da liễu Belimi chia sẻ lời khuyên về cách chọn sản phẩm chăm sóc da để tránh lão hóa da sớm
 
