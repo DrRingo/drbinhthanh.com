@@ -1,9 +1,9 @@
 ---
-layout: page
+title: 'Các phương pháp ngừa thai. Bài 2: vòng tránh thai (dụng cụ tử cung)'
+layout: post
 comments: true
 social-share: true
 show-avatar: true
-title: 'Các phương pháp ngừa thai. Bài 2: vòng tránh thai (dụng cụ tử cung)'
 author: drdoanngoc
 ---
 

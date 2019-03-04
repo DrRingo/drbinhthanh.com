@@ -1,9 +1,9 @@
 ---
-layout: page
+title: 'Các phương pháp ngừa thai, bài 1: cấy que ngừa thai'
+layout: post
 comments: true
 social-share: true
 show-avatar: true
-title: 'Các phương pháp ngừa thai, bài 1: cấy que ngừa thai'
 author: drdoanngoc
 ---
 
