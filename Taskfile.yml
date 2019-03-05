@@ -1,7 +1,7 @@
 version: '2'
 
 vars:
-    C: "default task commit line"
+    C: "default"
 
 tasks:
     build:
@@ -26,8 +26,6 @@ tasks:
     push:
         desc: "Push the blog source to remote repository"
         cmds:
-            - task: commit
-              ignore_error: true
             - git push origin master
         silent: true
 
@@ -45,6 +43,8 @@ tasks:
         deps: [build]
     s:
         deps: [serve]
+    c:
+        deps: [commit]
     p:
         deps: [push]
     fp:
