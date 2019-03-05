@@ -1,18 +1,17 @@
 version: '2'
 
 vars:
-    COMMIT_LINE: 'meme'
+    C: "default task commit line"
 
 tasks:
-    b:
+    build:
         desc: "Build the blog to standart html and javascript bundle"
         cmds:
             - echo "The blog is now build"
             - bundle exec jekyll build
         silent: true
-
-    
-    s:
+        
+    serve:
         desc: "Serve the blog at localhost for development, default port: 4000"
         cmds:
             - echo "The blog is now served"
@@ -22,23 +21,31 @@ tasks:
     commit:
         cmds:
             - git add .
-            - git commit -m {{ .COMMIT_LINE }}
+            - git commit -m "{{ .C }}"
 
-    p:
+    push:
         desc: "Push the blog source to remote repository"
         cmds:
             - task: commit
+              ignore_error: true
             - git push origin master
         silent: true
 
 
-    fp:
+    publish:
         desc: "Publish the blog to remote website"
+        dir: _site
         cmds:
-            - cd ./_site/
             - task: commit
+              ignore_error: true
             - git ftp push
         silent: true
             
-
-
+    b:
+        deps: [build]
+    s:
+        deps: [serve]
+    p:
+        deps: [push]
+    fp:
+        deps: [publish]
