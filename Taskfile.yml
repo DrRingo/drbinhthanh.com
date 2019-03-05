@@ -1,7 +1,7 @@
 version: '2'
 
 vars:
-    C: "default"
+    COM: "default"
 
 tasks:
     build:
@@ -21,7 +21,7 @@ tasks:
     commit:
         cmds:
             - git add .
-            - git commit -m "{{ .C }}"
+            - git commit -m "{{ .COM }}"
 
     push:
         desc: "Push the blog source to remote repository"
