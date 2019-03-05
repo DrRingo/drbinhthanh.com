@@ -1,36 +1,36 @@
 version: '2'
 
-env:
-    COM: "default"
+vars:
+    C: 'default public'
 
 tasks:
-    build:
+    b:
         desc: "Build the blog to standart html and javascript bundle"
         cmds:
             - echo "The blog is now build"
             - bundle exec jekyll build
         silent: true
         
-    serve:
+    s:
         desc: "Serve the blog at localhost for development, default port: 4000"
         cmds:
             - echo "The blog is now served"
             - bundle exec jekyll serve
         silent: true
 
-    commit:
+    c:
         cmds:
             - git add .
-            - git commit -m "{{ .COM }}"
+            - git commit -m "{{ .C }}"
 
-    push:
+    p:
         desc: "Push the blog source to remote repository"
         cmds:
             - git push origin master
         silent: true
 
 
-    publish:
+    fp:
         desc: "Publish the blog to remote website"
         dir: _site
         cmds:
@@ -39,13 +39,13 @@ tasks:
             - git ftp push
         silent: true
             
-    b:
-        deps: [build]
-    s:
-        deps: [serve]
-    c:
-        deps: [commit]
-    p:
-        deps: [push]
-    fp:
-        deps: [publish]
+    build:
+        deps: [b]
+    serve:
+        deps: [s]
+    commit:
+        deps: [c]
+    push:
+        deps: [p]
+    publish:
+        deps: [fp]
