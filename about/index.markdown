@@ -17,6 +17,6 @@ Khi tôi tình cờ đậu vào trường y, bố tôi dụ dỗ tôi theo học
 
 > Tôi xin miễn trừ mọi trách nhiệm do áp dụng y khoa từ blog này mà không có chỉ định cụ thể của nhân viên y tế.
 
-Muốn gặp tôi để hỏi thêm chi tiết? -> Bs. Bình Thành hiện tại ngoài công việc chính tại bệnh viện Từ Dũ còn khám ngoài giờ tại phòng khám sản phụ khoa và thẩm mỹ **Belimi** 99 Phổ Quang, phường 2, quận Tân Bình. Rất hân hạnh đón tiếp mọi người!
+Muốn gặp **Bs. Bình Thành** để hỏi thêm chi tiết? **Bs. Bình Thành** công việc chính tại bệnh viện Từ Dũ, và khám ngoài giờ tại phòng khám sản phụ khoa **Vuông Tròn** A28, 191 Cống Quỳnh, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, điện thoại: **02822285612**.
 
 **Xin đa tạ!**
