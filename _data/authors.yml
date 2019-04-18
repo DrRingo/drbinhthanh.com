@@ -228,3 +228,20 @@ belimi:
   accent_image:
     background:      '#202020'
     overlay:         false
+    
+# Bs. Đoàn Trung Hiếu .NT
+drhieudoan:
+  name:              Bs. Đoàn Trung Hiếu
+  email:             trunghieudoan@yahoo.com
+  about:        |
+     Bs. Đoàn Trung Hiếu sau khi tốt nghiệp nội trú tại trường đại học Y Dược TpHCM đã công tác tại bệnh viện Từ Dũ. Hiện tại bác sĩ Hiếu đang làm tại khoa sanh và khám ngoài giờ tại phòng khám Ngọc Châu
+
+  picture:
+    path:            /assets/drhieudoan.jpg
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
