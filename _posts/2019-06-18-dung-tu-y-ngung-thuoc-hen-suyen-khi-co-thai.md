@@ -7,8 +7,6 @@ show-avatar: true
 author: drbinhthanh
 ---
 
-title: ĐỪNG TỰ Ý NGƯNG THUỐC HEN SUYỄN KHI CÓ THAI!!!
-
 BS. Trần Thị Minh Châu.
 
 Một chị bầu bước vào khoa cấp cứu vì mệt, khó thở. Hai mắt chị trũng sâu, thâm quầng. Môi chị tím tái vì khó thở. Mạch chị rất nhanh, trên 120 lần trong 1 phút. Nghe phổi thì toàn tiếng thở rít. Chị khó nhọc lắm mới nói rõ được từng từ. Hỏi ra mới biết chị vốn bị bệnh hen suyễn đã lâu, bác sĩ có cho dùng thuốc xịt cắt cơn khó thở nhưng từ khi có thai chị sợ thuốc ảnh hưởng đến em bé nên tự ý ngưng thuốc. Chị cũng không đi tái khám bác sĩ hô hấp mà cứ thế chịu đựng bệnh. Các chị bầu ơi, tự ý ngưng thuốc điều trị hen suyễn khi có thai không thấy lợi đâu hết mà thấy hại không à. Cái hại đầu tiên là chị bị lên cơn khó thở và phải nhập khoa cấp cứu lúc đêm hôm khuya khoắt như thế này. Cái hại thứ hai là theo như những nghiên cứu mới nhất trong hướng dẫn của Hiệp hội Sản Phụ khoa Hoa Kỳ (ACOG) thì mẹ bầu bị hen suyễn mức độ trung bình đến nặng hoặc không điều trị đầy đủ thì con dễ bị chậm tăng trưởng trong tử cung và dễ bị sanh non lắm đấy. Vậy bị hen suyễn mà mang thai thì cần lưu ý gì? 
