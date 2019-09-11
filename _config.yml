@@ -296,4 +296,4 @@ google_analytics:      UA-123868888-1
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-merlot
