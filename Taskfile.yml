@@ -1,14 +1,14 @@
 version: '2'
 
 tasks:
-        build:
+        b:
                 desc: build the drbinhthanh.com
                 dir: $GEEK/drbinhthanh.com
                 cmds:
                         - echo 'drbinhthanh.com''s blog will now build'
                         - bundle exec jekyll build
                 silent: true
-        serve: 
+        s: 
                 desc: serve the Dr. Ringo's blog
                 dir: $GEEK/drbinhthanh.com
                 cmds:
