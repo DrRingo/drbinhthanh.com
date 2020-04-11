@@ -14,7 +14,7 @@ date: '2020-03-22 14:52:32'
 
 BS Phan Diễm Đoan Ngọc
 
-![enter image description here](assets/img/daude.jpg)
+![enter image description here](/assets/img/daude.jpg)
   
 
 Khi gần đến ngày khai hoa nở nhụy, bên cạnh niềm háo hức chào đón một thiên thần bé nhỏ thì hẳn không ít bạn cũng sẽ rất lo lắng về một nỗi ám ảnh mang tên "đau đẻ". Chuyển dạ hay nói ví von "vượt cạn" là một quá trình mà tử cung của bạn sẽ co thắt để đẩy dần dần em bé xuống khung chậu và khi đủ thấp thì kết hợp với sức rặn của bạn, em bé sẽ chui ra ngoài. Mỗi lần tử cung co thắt như vậy là mỗi lần bạn sẽ cảm nhận cơn đau tăng dần từ nhẹ đến vừa vừa và cuối cùng lúc gần sinh là đau dữ dội! Thật khó để có thể mô tả cơn đau đẻ vì nó mơ hồ và cảm nhận của mỗi người sẽ rất khác nhau. Có bạn sẽ vượt cạn một cách thật nhẹ nhàng nhưng cũng có nhiều bạn phải trải qua những cơn đau được mô tả kiểu như "kinh khủng", "không gì bằng" (nhất là những bạn sinh con lần đầu)! Tuy nhiên đừng quá hoảng hốt bạn nhé! Có rất nhiều cách đơn giản, không cần dùng thuốc có thể giúp bạn "vượt cạn" một cách nhẹ nhàng nhất! Chỉ cần bạn chịu khó tìm hiểu, bình tĩnh và tin tưởng vào bản thân mình. Y học hiện nay cũng rất phát triển và chuyện "đẻ phải đau" không còn là điều hiển nhiên nữa! Bài viết này nhằm mục đích giúp những bạn chưa sinh lần nào hình dung được những gì mình sẽ trải qua khi “vượt cạn” và cũng hữu ích cho những bạn đã từng sinh để giúp bạn biết được các phương pháp giảm đau khi đẻ. Nào mình cùng tìm hiểu nhé!
