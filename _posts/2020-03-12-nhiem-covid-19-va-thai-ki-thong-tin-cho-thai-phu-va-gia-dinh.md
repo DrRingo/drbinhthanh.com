@@ -10,7 +10,7 @@ author: drthanhhoang
 
 **Bs. Phạm Thanh Hoàng**
   
-	![](/assets/img/covid19.jpg)
+	![](assets/img/covid19.jpg)
 	
 
 Thông tin mới nhất từ Hiệp hội Sản Phụ khoa Hoàng gia Anh
