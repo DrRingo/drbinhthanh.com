@@ -1,6 +1,7 @@
 ---
 author: drdoanngoc
 layout: post
+title: Xét nghiệm NIPT
 ---
 
 ![](https://pkngocchau.com/wp-content/uploads/2020/08/20200725_xet-nghiem-nipt-la-gi-01.png)
