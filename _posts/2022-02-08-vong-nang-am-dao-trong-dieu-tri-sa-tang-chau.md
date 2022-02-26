@@ -4,10 +4,10 @@ layout: post
 comments: true
 social-share: true
 show-avatar: true
-author: drthanhhoang
+author: drbinhthanh
 date: 2022-02-08
 ---
-![Các loại vòng nâng](http://helen.drbinhthanh.com/img/cacloaivongnang.jpg)
+![Các loại vòng nâng](/assets/img/cacloaivongnang.jpg)
 
 **Ths. BS. Văn Huỳnh Thúy Xuân** - *Bệnh viện Từ Dũ*
 
