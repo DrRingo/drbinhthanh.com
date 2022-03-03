@@ -16,7 +16,7 @@ lang:                   vi
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title:                  Dr. Bình Thành's blog
+title:                  Bs. Bình Thành - bệnh viện Từ Dũ
 
 # Short description of your site
 description:            >
@@ -24,7 +24,7 @@ description:            >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Tự hào không chỉ ở việc đã làm, mà ở việc tôi KHÔNG làm 
+  Mẹ tròn con vuông, từ 2011
 
 # A list of keywords for your blog
 keywords:              [medicine, obstetrics, gynecology, sản khoa, phụ khoa, làm mẹ]
@@ -41,15 +41,15 @@ author:
   twitter:             ringotaylor06
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Dr. Ringo © 2019. All rights reserved.
+copyright:             Dr. Bình Thành © 2022. All rights reserved.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Công cụ:
-    - RingoNotes: https://drringo.github.io/ExpertSystem
-    - Uptodate: http://s.drbinhthanh.com/uptodate
+    - RingoNotes: https://obsgyn.tiddlyhost.com/
+    - Uptodate: http://helen.drbinhthanh.com/uptodate
   About Me: "about"
   Các tác giả:
     - 'Bs. Nguyễn Bình Thành': drbinhthanh
